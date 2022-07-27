@@ -1,0 +1,12 @@
+
+.navbar {
+    background-color: #5D0247;
+}
+
+.btn-color {
+    background-color: #811666;
+    color: white;
+    outline: none;
+    font-style: italic ;
+    /* font-size: medium; */
+}
